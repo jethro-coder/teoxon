@@ -14,7 +14,7 @@ function index() {
           <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/Assets/Aboutpics/sfac.png"/>
           <div class="flex-grow sm:pl-8">
             <h2 class="title-font font-medium text-lg text-gray-900">My School</h2>
-            <p class="mb-4">Saint Francis of Assisi College</p>
+            <p That class="mb-4">Saint Francis of Assisi College</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
